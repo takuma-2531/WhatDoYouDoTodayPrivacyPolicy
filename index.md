@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## はじめに
+小川卓馬（以下、「当方」）は、スマートフォン用アプリケーション「今日は何する？」（以下「本アプリ」）を開発・運用しています。
+本アプリのご利用によって、本規約に同意していただいたものとみなします。
 
-You can use the [editor on GitHub](https://github.com/takuma-2531/WhatDoYouDoTodayPrivacyPolicy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+本アプリを利用するにあたって、第三者に個人を特定できる情報を提供することはありません。
+個人情報の管理には細心の注意を払い、以下に掲げた通りに扱います。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## データ解析
+アプリの利便性向上のため、匿名で、個人を特定できない範囲に細心の注意を払い、アクセス解析をしております。
+例えば、アプリがクラッシュした時、どの部分でクラッシュしたかを匿名で送信し、バグの素早い修正に役立たせております。
+ 
+## 広告について
+本アプリでは、広告配信ツールとしてAdMob(Google Inc.)を使用しており、AdMobがご利用者の情報を自動取得する場合がございます。
+取得する情報、利用目的、第三者への提供等につきましては、以下の広告配信事業者のアプリケーション・プライバシーポリシーのリンクよりご確認ください。
 
-### Markdown
+[Google 広告に関するポリシー](https://policies.google.com/technologies/ads?hl=ja)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 利用状況解析について
+本アプリでは、今後の開発の参考とするため、アプリの利用状況データを収集するツールとしてFirebase(Google Inc.)を使用しており、Firebaseがご利用者の情報を自動取得する場合がございます。
+取得する情報、利用目的、第三者への提供等につきましては、以下のGoogleプライバシーポリシーのリンクよりご確認ください。
 
-```markdown
-Syntax highlighted code block
+[Google プライバシーポリシー](https://policies.google.com/privacy?hl=ja)
+ 
+## プライバシーポリシーの改定
+当方は、自身の裁量に基づいて、予告なく本ポリシーを変更する場合があります。
+ただし、このページで定められた内容に変更が発生した場合、本アプリケーションのアップデート情報によりユーザーに通知を行います。
 
-# Header 1
-## Header 2
-### Header 3
+## 免責事項
+利用上の不具合・不都合に対して可能な限りサポートを行なっておりますが、利用者が本アプリを利用して生じた損害に関して、当方は責任を負わないものとします。
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/takuma-2531/WhatDoYouDoTodayPrivacyPolicy/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+※ご不明な点があれば、下記メールアドレスまでお気軽にお問い合わせください。
+tkm.ogawa.31@gmail.com
